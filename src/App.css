@@ -1,0 +1,28 @@
+.form{
+
+  width: 80%;
+  margin: 60px auto 0;
+  text-align: center;
+}
+
+
+.validacion{
+
+  width: 80%;
+  color: red;
+  margin: 0 auto;
+}
+
+.lista{
+  width: 80%;
+  margin: 15px auto 5;
+
+}
+.tarea{
+font-size: 20 px;
+margin: 20px 0 10px 0;
+display: grid;
+grid-template-columns: 3fr 1fr 1fr;
+
+
+}
